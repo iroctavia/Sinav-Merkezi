@@ -119,3 +119,4 @@ silerek uygulamayı başlangıç durumuna döndürür.
 - Bu bir **demo uygulamasıdır**, veriler yalnızca tarayıcınızda saklanır
 - Klasik sınavlarda cevap girildiğinde tam puan verilir (demo amaçlı)
 - Farklı bir cihazdan açıldığında veriler görünmez
+ 
